@@ -2,9 +2,13 @@
 
 **Author**
 Jean-Nicholas Hould
+(Slight modifications by Eric Monson for DVS workshop)
 
 **Description**
-This notebook demonstrates some manipulations to transform messy datasets into the tidy format using Python pandas.
+This notebook demonstrates some manipulations to transform messy datasets into the 
+tidy format using Python pandas.
 
 **Additional Information**
-For any additional details, please read my [blog post](http://www.jeannicholashould.com/tidy-data-in-python.html) which covers in details this notebook.
+For any additional details, please read my 
+[blog post](http://www.jeannicholashould.com/tidy-data-in-python.html) 
+which covers in details this notebook.
