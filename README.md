@@ -33,6 +33,9 @@ and how to set up interactive dashboards
 Python visualization packages (Matplotlib, Pandas, Seaborn, ggplot, Altair), including
 [code repository](https://github.com/dsaber/py-viz-blog)
 
+[Pandas tutorials and documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+· Good documentation, examples and quick tutorials from the official Pandas site
+
 [Python for Data Science workshop](https://github.com/stefanv/ds_intro)
 · Python for Data Science workshop repository, given at IEEE VIS 2015
 
